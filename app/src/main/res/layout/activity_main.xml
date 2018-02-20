@@ -17,18 +17,10 @@
         android:textSize="20sp"
         android:id="@+id/hello"
         />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
 
-        android:textSize="20sp"
-        android:layout_below="@+id/button"/>
-
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/button" />
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="HELLO MOTHAFAKKA"
+      android:layout_marginTop="70dp"/>
 </RelativeLayout>
